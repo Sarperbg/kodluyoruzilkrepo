@@ -1,10 +1,10 @@
 # Kodluyoruz Ilk Repo
-**Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.**
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## **Installation**
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Öncelikle projeyi clonelayın. 
 '''
-[git clone] https://github.com/Sarperbg/kodluyoruzilkrepo.git
+git clone https://github.com/Sarperbg/kodluyoruzilkrepo.git
 '''
 ## **Usage**
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
@@ -20,7 +20,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## **License**
 [MIT License](https://opensource.org/licenses/MIT)
 
-![screenshot](/screenshot.png)
+![proje](/proje.png)
 
 
 
